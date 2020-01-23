@@ -53,11 +53,11 @@ a{
     color: #f8f8f8; 
     background: url("https://d1qp59yxlq7zhd.cloudfront.net/media/15-06-2019-lifestyle_store.jpg") no-repeat center; 
     background-size: cover;
-    height: 800px;
+    height: 600px;
 }
 .inner-banner-image{
     padding-top: 12%; 
-    width:40%; 
+    width:50%; 
     margin:auto;
 }
 .banner_content{
@@ -98,7 +98,7 @@ a{
 .thumbnail{
     display: block; 
     max-width: 100%; 
-    height: auto;
+    max-height: 200px;
 }
 .caption{
     color:#000; 
