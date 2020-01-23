@@ -53,10 +53,11 @@ a{
     color: #f8f8f8; 
     background: url("https://d1qp59yxlq7zhd.cloudfront.net/media/15-06-2019-lifestyle_store.jpg") no-repeat center; 
     background-size: cover;
+    height: 800px;
 }
 .inner-banner-image{
     padding-top: 12%; 
-    width:80%; 
+    width:700px; 
     margin:auto;
 }
 .banner_content{
@@ -66,7 +67,7 @@ a{
     overflow:hidden; 
     margin-bottom: 12%; 
     background-color: rgba(0, 0, 0, 0.7); 
-    max-width: 660px;
+    
 }
 .button{
     color: #fff; 
