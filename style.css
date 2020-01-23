@@ -7,6 +7,10 @@ and open the template in the editor.
     Created on : 23-Jan-2020, 3:44:58 PM
     Author     : Swadesh Jana
 */
+.card-pic{
+    display: flex;
+    justify-content: center;
+}
 body{ 
     width: 100%; 
     height: 100%; 
@@ -15,7 +19,7 @@ body{
 a{ 
     text-decoration: none; 
     background-color: transparent; 
-    color:#ededed; 
+    color:#ededed;
 }
 .header{
     background-color:#000; 
@@ -99,6 +103,7 @@ a{
     display: block; 
     max-width: 100%; 
     max-height: 200px;
+    text-align: center;
 }
 .caption{
     color:#000; 
